@@ -19,5 +19,5 @@ As mentioned above, there are many ways to host your project for free. Our recom
 
 ## Links 
 
-- Solution URL: [Click here]()
-- Live Site URL: [Click here]()
+- Solution URL: [Click here](https://github.com/rahulvr29/Tic-Tac-Toe)
+- Live Site URL: [Click here](https://curious-malabi-a3b032.netlify.app/)
